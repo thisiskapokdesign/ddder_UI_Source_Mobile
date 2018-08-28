@@ -1,0 +1,77 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "C9045FAA-0CDC-439E-8518-535224C9FBA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "04D2D658-8BF9-48E0-ADD5-F7AFD62CB861",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5429D001-693C-4A69-B518-D4C858C56239",
+    "height": 20.00000001779099,
+    "width": 12,
+    "x": 103.5,
+    "y": 11.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E99CD47D-89A9-4A10-9974-21811F1F2A64"
+    },
+    {
+      "class": "rectangle",
+      "id": "00503D0F-FDA0-49E5-B558-3B5BAC8BBAB9"
+    },
+    {
+      "class": "rectangle",
+      "id": "E59098E3-E8C2-4443-B7F5-691774CDCEE5"
+    }
+  ],
+  "name": "Speech",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF934554-C48E-4163-BAF2-8CC5A75E1DE0",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.01176470588235294,
+          "green": 0.01176470588235294,
+          "red": 0.01176470588235294
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

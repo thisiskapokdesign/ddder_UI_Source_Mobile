@@ -1,0 +1,91 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "23CC37AD-DEA9-491C-BB72-C3D3A27B00DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "82AD6435-1F9F-445E-9A4B-250BB185608A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C82ED6EF-5F71-45D9-B4D9-B1418A2B2D53",
+    "height": 9.5,
+    "width": 25,
+    "x": 37,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8F294E63-B099-4B8A-9F2B-647CDC7BCA8F"
+    },
+    {
+      "class": "rectangle",
+      "id": "32BB1255-35E1-49A1-A7BF-BCE41D2392EE"
+    },
+    {
+      "class": "rectangle",
+      "id": "FCBD1172-2C2F-4B65-855D-725D10E5DA30"
+    },
+    {
+      "class": "rectangle",
+      "id": "F54F0B90-9E99-4868-9444-CE1B5C95AA90"
+    }
+  ],
+  "name": "Battery",
+  "nameIsFixed": true,
+  "originalObjectID": "DA913580-C9E4-4082-B013-DB4693469204",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "672FA7F5-8C17-4222-9DEA-3AAE02EED173",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBSemaphore": {
+          "objectID": "7EFD963C-E038-4EA3-A0D2-4812328F788D"
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

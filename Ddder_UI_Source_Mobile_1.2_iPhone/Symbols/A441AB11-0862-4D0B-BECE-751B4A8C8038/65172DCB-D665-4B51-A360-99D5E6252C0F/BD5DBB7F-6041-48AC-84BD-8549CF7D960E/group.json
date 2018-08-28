@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "BD5DBB7F-6041-48AC-84BD-8549CF7D960E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA85D757-E6FE-435A-85C2-D9E634D59D23",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F620B76-45C5-4217-8AB0-E9DDB6883277",
+    "height": 14,
+    "width": 62,
+    "x": 305,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "23CC37AD-DEA9-491C-BB72-C3D3A27B00DE"
+    },
+    {
+      "class": "text",
+      "id": "080E43A0-1B83-4DBB-AD44-970B195E5BC5"
+    }
+  ],
+  "name": "Battery",
+  "nameIsFixed": true,
+  "resizingConstraint": 44,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ACFB166B-DE71-4DFC-AEAC-7DE48EB0E139",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBSemaphore": {
+          "objectID": "C3EE779D-ADAD-4B9A-9F18-CAF84C2A7E9A"
+        }
+      }
+    }
+  }
+}

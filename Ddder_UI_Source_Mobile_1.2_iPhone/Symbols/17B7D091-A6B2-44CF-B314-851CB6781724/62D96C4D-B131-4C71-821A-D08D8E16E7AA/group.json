@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "62D96C4D-B131-4C71-821A-D08D8E16E7AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7E245E2E-76B3-4903-B394-985865962475",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7DDA25D4-99CD-407D-AB35-7FD98B5DEF71",
+    "height": 16,
+    "width": 35,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5B62322B-57E8-41FB-9B38-E0B5F335DA25"
+    },
+    {
+      "class": "text",
+      "id": "C8DD875A-4277-4DCA-93B7-E89DB37255CE"
+    }
+  ],
+  "name": "标志/文档类型/DOC",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6AF0288F-7F4D-4CBD-9EAC-C1C051876A06",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

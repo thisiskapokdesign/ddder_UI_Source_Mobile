@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "4397241F-9669-453B-B65F-CEA77452FCBA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AA741501-A4D3-453A-9378-041D06D750BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "756E8E85-7422-4B2E-9A3E-50E48664CAC5",
+    "height": 16,
+    "width": 89,
+    "x": 8,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0201B47F-65AB-42F2-B5EF-F304986C5FAF"
+    },
+    {
+      "class": "text",
+      "id": "B54B9483-5E46-49EF-84B0-FF42A6BC16CA"
+    },
+    {
+      "class": "group",
+      "id": "1BF2C01E-E9EA-436F-A9EE-78A78FCC7985"
+    }
+  ],
+  "name": "Signal & Carrier",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4477EDF6-55D3-4CE9-AD59-5CB1E2003473",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBSemaphore": {
+          "objectID": "1F3A419D-D5B1-41CE-A092-30EA062018EB"
+        }
+      }
+    }
+  }
+}

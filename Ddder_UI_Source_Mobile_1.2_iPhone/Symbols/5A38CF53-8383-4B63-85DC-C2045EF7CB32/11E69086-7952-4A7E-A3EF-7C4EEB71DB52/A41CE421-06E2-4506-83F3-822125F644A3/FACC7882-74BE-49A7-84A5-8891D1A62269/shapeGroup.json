@@ -1,0 +1,82 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "FACC7882-74BE-49A7-84A5-8891D1A62269",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C916B796-BE6C-4452-9D90-14965A2DE12C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "78D82B83-6848-481D-B506-030DEC643012",
+    "height": 9.5,
+    "width": 25,
+    "x": 37,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8DD244B5-F2F7-4D5A-89C8-C7476DB4C6FE"
+    },
+    {
+      "class": "rectangle",
+      "id": "D28782B5-DDB6-4682-86EA-028C4AA9E2E5"
+    },
+    {
+      "class": "rectangle",
+      "id": "CC14E987-32BB-4E23-ABC3-CF43BEB3EAB9"
+    },
+    {
+      "class": "rectangle",
+      "id": "592CF1C8-EFBD-4FD4-83F8-1EA32BEFE8CD"
+    }
+  ],
+  "name": "Battery",
+  "nameIsFixed": true,
+  "originalObjectID": "DA913580-C9E4-4082-B013-DB4693469204",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3F2BE300-489F-4D63-8111-84F418352ABE",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

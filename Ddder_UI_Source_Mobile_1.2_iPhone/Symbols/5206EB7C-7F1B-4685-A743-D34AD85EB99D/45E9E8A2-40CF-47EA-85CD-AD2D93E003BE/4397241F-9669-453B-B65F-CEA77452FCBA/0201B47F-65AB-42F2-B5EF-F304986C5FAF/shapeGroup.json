@@ -1,0 +1,96 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "0201B47F-65AB-42F2-B5EF-F304986C5FAF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9713197E-6A7D-4AE8-8FD8-C3DFF19F8DD0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9EAB181D-0AF4-45CF-88BE-5EFA77358285",
+    "height": 9.000000000000032,
+    "width": 13,
+    "x": 76,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FCBB1BC3-A7BC-409C-AB12-7CA4103C40FF"
+    },
+    {
+      "class": "shapePath",
+      "id": "1A7D20A6-240C-42DA-8F6D-50234D35F1C8"
+    },
+    {
+      "class": "shapePath",
+      "id": "390949E5-7F73-4DAE-871D-02EADFC0C210"
+    }
+  ],
+  "name": "Wi-Fi",
+  "nameIsFixed": true,
+  "originalObjectID": "371E0223-68D5-4204-BF4E-6A787889B40C",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0A042BF9-6194-4931-BA87-46CBCC47B255",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.979428817286283,
+      "type": 0
+    },
+    "do_objectID": "6480E5F8-1439-4003-8E3E-E3CEA40A0C97",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBSemaphore": {
+          "objectID": "C8E7401B-FD17-443D-B7C5-FC6ED72BABA6"
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

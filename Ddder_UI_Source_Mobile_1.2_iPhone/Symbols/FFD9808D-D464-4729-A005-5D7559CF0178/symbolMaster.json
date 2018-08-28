@@ -1,0 +1,86 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4F5CAE93-2A3E-4A25-8799-EF55FB6E4528",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 133,
+  "do_objectID": "FFD9808D-D464-4729-A005-5D7559CF0178",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D25F3434-0B7B-4FCF-83BA-D6CBDFEA7DC3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "786A08E2-8EC3-4970-8EBD-8A7D457956BD",
+    "height": 216,
+    "width": 375,
+    "x": 1442,
+    "y": 2121
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D77E98CC-B5A6-40CD-A57E-2F7D08F99616",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "42C52124-F4BF-4424-A321-57FDF1D3CB39"
+    }
+  ],
+  "name": "系统/键盘/数字键盘",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "092BAF13-7427-451F-A0C3-70C22D1057D8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8CB30E46-27E3-4AF9-835D-96180B55CBCE",
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "90F83853-D366-4639-9CEF-75031A680514"
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "17381ABC-81C8-4331-912D-084E0D2D32E3",
+    "guides": [
+    ]
+  }
+}

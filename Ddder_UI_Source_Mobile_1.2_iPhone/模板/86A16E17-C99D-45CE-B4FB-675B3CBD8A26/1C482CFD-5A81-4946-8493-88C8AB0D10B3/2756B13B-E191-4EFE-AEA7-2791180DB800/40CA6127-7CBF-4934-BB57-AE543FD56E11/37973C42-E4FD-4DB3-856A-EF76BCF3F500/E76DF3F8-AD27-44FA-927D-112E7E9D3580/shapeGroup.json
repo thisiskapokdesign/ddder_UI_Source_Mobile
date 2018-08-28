@@ -1,0 +1,152 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "E76DF3F8-AD27-44FA-927D-112E7E9D3580",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9DDC8ED6-BBE2-490F-96A7-394C2A723BD9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "146C2B4E-C2C8-4145-93EC-7F5723E421AC",
+    "height": 15,
+    "width": 16,
+    "x": 287,
+    "y": 9
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1148D9A6-2582-4D15-86AB-E8063330048E"
+    },
+    {
+      "class": "rectangle",
+      "id": "D340F38F-1355-40C4-AE5B-A04DF13EB2E5"
+    },
+    {
+      "class": "rectangle",
+      "id": "1A030409-6764-41FD-A53B-A73AB86C676B"
+    },
+    {
+      "class": "rectangle",
+      "id": "93C1DD89-ADBD-4389-A965-03F25BD9F738"
+    },
+    {
+      "class": "oval",
+      "id": "BEDAAED3-0720-497D-A071-97B7EDB96EE0"
+    },
+    {
+      "class": "oval",
+      "id": "EE375EE1-7A8D-4149-B67B-6145EA8BE2D7"
+    },
+    {
+      "class": "oval",
+      "id": "B206C06E-12B1-4A12-9500-06365A78988A"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "C10987CF-C236-485A-B499-2647FE8D3D92",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4666666666666667,
+          "green": 0.4666666666666667,
+          "red": 0.4666666666666667
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.15267081477050143, 0.14033009983067446}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.84732918522949863, 0.85966990016932565}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBSemaphore": {
+          "objectID": "8FD97972-C17C-4B38-B216-0D159236A78F"
+        }
+      }
+    },
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "8FD97972-C17C-4B38-B216-0D159236A78F"
+    }
+  },
+  "windingRule": 1
+}

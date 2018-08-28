@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "B33DF098-EBEF-4D67-98DB-8CAD26E35001",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A461EA10-046B-4E6A-A3E8-2EEF245824BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C1966DB0-88FB-4F31-A0A3-670B4708F811",
+    "height": 42,
+    "width": 369,
+    "x": 3,
+    "y": 118
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8DA53354-F6D5-482B-8ADE-1E92436C45E8"
+    },
+    {
+      "class": "group",
+      "id": "C20DE40A-FF1B-4A73-B31B-95F244950FA7"
+    },
+    {
+      "class": "group",
+      "id": "3780F91A-46A1-418D-906D-CF89CF5291D7"
+    }
+  ],
+  "name": "Third Row",
+  "nameIsFixed": false,
+  "originalObjectID": "F8974662-0CAA-4403-A2EA-0098AC3FEAD8",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "410310B0-2A01-4F00-A368-F5A67671DACE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

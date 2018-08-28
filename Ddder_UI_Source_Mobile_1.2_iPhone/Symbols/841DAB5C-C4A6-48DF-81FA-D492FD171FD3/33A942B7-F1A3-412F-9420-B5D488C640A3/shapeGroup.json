@@ -1,0 +1,156 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "33A942B7-F1A3-412F-9420-B5D488C640A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B3688435-3C4C-47D8-9120-21BA662892FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5924DDDA-C9A1-468A-B979-755A1846E7A7",
+    "height": 18,
+    "width": 18,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "BEC50C83-A320-45F5-8071-03B158568237"
+    },
+    {
+      "class": "rectangle",
+      "id": "DC0CFDA9-8596-4E85-91EF-21ED11D70183"
+    },
+    {
+      "class": "oval",
+      "id": "D909DF9D-2058-494A-B3C5-FA3EB0F0DA89"
+    },
+    {
+      "class": "oval",
+      "id": "52159567-1795-4C48-A67E-2768EEA5F529"
+    },
+    {
+      "class": "rectangle",
+      "id": "C2E36C16-7620-4664-AFA8-9B320EAACD9D"
+    },
+    {
+      "class": "rectangle",
+      "id": "EE0988D2-4DC6-4B38-B8A0-49450A26F3F5"
+    },
+    {
+      "class": "rectangle",
+      "id": "5EEA62F4-CB34-46EF-A5C6-38F55B7A7F66"
+    },
+    {
+      "class": "rectangle",
+      "id": "109C9D6C-7B23-4160-B8B7-750AE19CA0B7"
+    },
+    {
+      "class": "rectangle",
+      "id": "74F52229-B590-41E1-9292-0779A105100D"
+    }
+  ],
+  "name": "图标/按钮图标/任务栏/收到的节点/normal",
+  "nameIsFixed": true,
+  "originalObjectID": "5A0B9047-4D2E-427D-B8BB-858FD9001A36",
+  "resizingConstraint": 13,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "03C84BC2-86AF-4ECE-98AC-1844A34300FE",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 3,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "sharedObjectID": "C401E089-60BE-4FFF-BC03-9D3945E6920B",
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 21,
+            "enabled": 1,
+            "modelID": "constraint_99fbf17d-6207-4e0e-ad32-d80a681104f6",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 20
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_f6a4a60d-3864-4507-aedf-ffab6dc85c7c",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    },
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBSemaphore": {
+          "objectID": "18971CC4-DA66-4644-AC32-F905933D6A69"
+        }
+      }
+    },
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "18971CC4-DA66-4644-AC32-F905933D6A69"
+    }
+  },
+  "windingRule": 1
+}

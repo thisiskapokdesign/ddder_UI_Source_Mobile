@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "72AA68CF-2D23-4B56-A253-544E5F7E8021",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "59441084-FDD3-4089-BFF2-622DADF51E35",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AD774694-5D81-43F7-815D-569CE2D5CBE2",
+    "height": 16,
+    "width": 89,
+    "x": 8,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0373A24D-817D-41E7-A3A1-38059BDB3397"
+    },
+    {
+      "class": "text",
+      "id": "EF3175F2-2457-4D77-8551-1A9A2F4E58FD"
+    },
+    {
+      "class": "group",
+      "id": "D30A34DD-FF88-43AD-AA88-D27CB2F15370"
+    }
+  ],
+  "name": "Signal & Carrier",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "044B7C50-490A-45CA-B26F-491E03217D08",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
